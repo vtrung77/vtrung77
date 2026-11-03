@@ -86,5 +86,5 @@
   <p>🎮 <b>Main Breach</b> 🛡️</p>
   <br/>
   <!-- Ảnh sticker/GIF góc dưới (ví dụ Pokemon Blastoise) -->
-  <img src="[https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/9.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2hsbDk1eXV2b2VuN2VvaXM0cnkzMnliaTc1b2g3OG9mOGNvOGltYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/BqsndHTH6cbAY/giphy.gif)" width="100px" alt="Pokemon" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2hsbDk1eXV2b2VuN2VvaXM0cnkzMnliaTc1b2g3OG9mOGNvOGltYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/BqsndHTH6cbAY/giphy.gif" width="100px" alt="Pokemon" />
 </div>
