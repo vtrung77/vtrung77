@@ -65,7 +65,7 @@
 <table border="0" align="center">
   <tr>
     <td width="40%" align="center" valign="middle">
-      <img src="group project.png" width="220px" alt="Avatar illustration" />
+      <img src="" width="220px" alt="Avatar illustration" />
     </td>
     <td width="60%" valign="middle">
       <p align="left">
